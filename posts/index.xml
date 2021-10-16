@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Where is nan</title>
-    <link>https://brucechen520.github.io/</link>
-    <description>Recent content on Where is nan</description>
+    <title>Posts on Where is nan</title>
+    <link>https://brucechen520.github.io/posts/</link>
+    <description>Recent content in Posts on Where is nan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 16 Oct 2021 22:01:23 +0800</lastBuildDate><atom:link href="https://brucechen520.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Oct 2021 22:01:23 +0800</lastBuildDate><atom:link href="https://brucechen520.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
       <link>https://brucechen520.github.io/posts/my-first-post/</link>
